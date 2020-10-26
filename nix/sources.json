@@ -5,10 +5,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "emacs-mirror",
         "repo": "emacs",
-        "rev": "99e7cc0da652bf0f19f691d5de3b3ce7c15e8c39",
-        "sha256": "0hy7asdpy1l75y35mkmfkwpkkgpkgs12p07zs8b42ckkm5p0ahck",
+        "rev": "5edc7aa0193ec73f757e85012273c159301f64a9",
+        "sha256": "1vv3qkq4fj9amfwwmsnw1nr44gr12v1f8xhpna98yjsk4jadlkdm",
         "type": "tarball",
-        "url": "https://github.com/emacs-mirror/emacs/archive/99e7cc0da652bf0f19f691d5de3b3ce7c15e8c39.tar.gz",
+        "url": "https://github.com/emacs-mirror/emacs/archive/5edc7aa0193ec73f757e85012273c159301f64a9.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "emacs-pgtk-nativecomp": {
@@ -17,10 +17,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "flatwhatson",
         "repo": "emacs",
-        "rev": "d94d6c9ece45649e49f19165b01facd1c2b8c5f7",
-        "sha256": "09wvbmc0sipwr61d0v4hba0gsk734vbnh6844xy648pc3bgsj1rk",
+        "rev": "6c3a6e956497d24ae6dc85e5ae07231b41da0815",
+        "sha256": "022scqjnx9nmbq6b9nv8mk1ka0lsswi1inq3lvl4faqyip910hyl",
         "type": "tarball",
-        "url": "https://github.com/flatwhatson/emacs/archive/d94d6c9ece45649e49f19165b01facd1c2b8c5f7.tar.gz",
+        "url": "https://github.com/flatwhatson/emacs/archive/6c3a6e956497d24ae6dc85e5ae07231b41da0815.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "gitignore.nix": {
@@ -41,10 +41,10 @@
         "homepage": null,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "007126eef72271480cb7670e19e501a1ad2c1ff2",
-        "sha256": "1rfvw560vp2wn3dxdhqn1rk1fgk0ak9lnqm2dqpnsrkl4b8ay9mq",
+        "rev": "5d0e2dedd5594cdf3ebbda8bc61310e227235a9c",
+        "sha256": "1npc0viqm99gbj1q6vfqj4j4gz8jg5s6c6iiv3j01z2dbimwqyab",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/007126eef72271480cb7670e19e501a1ad2c1ff2.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/5d0e2dedd5594cdf3ebbda8bc61310e227235a9c.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nixpkgs": {
