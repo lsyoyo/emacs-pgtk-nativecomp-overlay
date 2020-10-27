@@ -5,10 +5,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "emacs-mirror",
         "repo": "emacs",
-        "rev": "5edc7aa0193ec73f757e85012273c159301f64a9",
-        "sha256": "1vv3qkq4fj9amfwwmsnw1nr44gr12v1f8xhpna98yjsk4jadlkdm",
+        "rev": "fd9e9308d27138a16e2e93417bd7ad4448fea40a",
+        "sha256": "1z1qmxarszkxwkdwhzqc0c39j762hbivbichjm9zwgggyjx95bj4",
         "type": "tarball",
-        "url": "https://github.com/emacs-mirror/emacs/archive/5edc7aa0193ec73f757e85012273c159301f64a9.tar.gz",
+        "url": "https://github.com/emacs-mirror/emacs/archive/fd9e9308d27138a16e2e93417bd7ad4448fea40a.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "emacs-pgtk-nativecomp": {
@@ -17,10 +17,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "flatwhatson",
         "repo": "emacs",
-        "rev": "6c3a6e956497d24ae6dc85e5ae07231b41da0815",
-        "sha256": "022scqjnx9nmbq6b9nv8mk1ka0lsswi1inq3lvl4faqyip910hyl",
+        "rev": "3a26065ffaad05ad7b3f0f1361cdc6e278e0c8b6",
+        "sha256": "1q02143x9vk800plk8vfbsw3xl7b5kh24p9kqz5awqwy3zngihxz",
         "type": "tarball",
-        "url": "https://github.com/flatwhatson/emacs/archive/6c3a6e956497d24ae6dc85e5ae07231b41da0815.tar.gz",
+        "url": "https://github.com/flatwhatson/emacs/archive/3a26065ffaad05ad7b3f0f1361cdc6e278e0c8b6.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "gitignore.nix": {
@@ -65,10 +65,10 @@
         "homepage": "",
         "owner": "cachix",
         "repo": "pre-commit-hooks.nix",
-        "rev": "519988762d02e8ed7204723349f15cc31cb8a38e",
-        "sha256": "169nhrg3bkvm0zqnrciapbpdvqdy3i772ijx9zjv6490i6ilp072",
+        "rev": "efdbd6d28f7f44db3d9f8cf0e0b4cb9db0d259e1",
+        "sha256": "1qngfbp1bqn52ipf992vrj4vp1cvvcv2yvzp0fs9yawqjxzk4j5m",
         "type": "tarball",
-        "url": "https://github.com/cachix/pre-commit-hooks.nix/archive/519988762d02e8ed7204723349f15cc31cb8a38e.tar.gz",
+        "url": "https://github.com/cachix/pre-commit-hooks.nix/archive/efdbd6d28f7f44db3d9f8cf0e0b4cb9db0d259e1.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
