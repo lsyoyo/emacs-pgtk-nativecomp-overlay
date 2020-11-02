@@ -5,10 +5,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "emacs-mirror",
         "repo": "emacs",
-        "rev": "fd9e9308d27138a16e2e93417bd7ad4448fea40a",
-        "sha256": "1z1qmxarszkxwkdwhzqc0c39j762hbivbichjm9zwgggyjx95bj4",
+        "rev": "3e3843512bfae0b7a532f633e45d4c140807ec9b",
+        "sha256": "0vvc0frqkfg0aclqsi7y3zgw523w9bwf377b614jfa8kn6rwbw0m",
         "type": "tarball",
-        "url": "https://github.com/emacs-mirror/emacs/archive/fd9e9308d27138a16e2e93417bd7ad4448fea40a.tar.gz",
+        "url": "https://github.com/emacs-mirror/emacs/archive/3e3843512bfae0b7a532f633e45d4c140807ec9b.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "emacs-pgtk-nativecomp": {
@@ -17,10 +17,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "flatwhatson",
         "repo": "emacs",
-        "rev": "c638c47ac5f0abd1c0cb5eef07a282bb5d639228",
-        "sha256": "0gv14nvh07k63gj59qx4vm5z555anwlm1vjxn0n3j55aza3d0xlr",
+        "rev": "f8a3a678338b8f77e34701d8d0f5e2a29711093f",
+        "sha256": "0clz7896b10zzvhzsmzx4ai6sa6wl6mf82r41h1a3z9f5a5zbpqm",
         "type": "tarball",
-        "url": "https://github.com/flatwhatson/emacs/archive/c638c47ac5f0abd1c0cb5eef07a282bb5d639228.tar.gz",
+        "url": "https://github.com/flatwhatson/emacs/archive/f8a3a678338b8f77e34701d8d0f5e2a29711093f.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "gitignore.nix": {
