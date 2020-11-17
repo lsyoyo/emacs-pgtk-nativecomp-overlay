@@ -5,10 +5,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "emacs-mirror",
         "repo": "emacs",
-        "rev": "54f2e9c06d599b795af45ab872915887e7649ef2",
-        "sha256": "0hbds442gi24z0zdyyhn1rs1bba8szmkr72rzg6bp09qnk6bm48j",
+        "rev": "cee6401c130bea0de727392e344d6073eed3297e",
+        "sha256": "0wlyfvhf2498h4kp53wch7py9c6gg4bvckqc2y0yhr05va8102r0",
         "type": "tarball",
-        "url": "https://github.com/emacs-mirror/emacs/archive/54f2e9c06d599b795af45ab872915887e7649ef2.tar.gz",
+        "url": "https://github.com/emacs-mirror/emacs/archive/cee6401c130bea0de727392e344d6073eed3297e.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "emacs-pgtk-nativecomp": {
@@ -17,10 +17,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "flatwhatson",
         "repo": "emacs",
-        "rev": "ad5e24593a7ea6d1b2201530fc99219fb701c017",
-        "sha256": "08jnfp0n8gpmd3cvrfisvywl1z0793x3m5xcj4k8djfwasa682pp",
+        "rev": "69aafa2e5c8a435b2f4a2357492d4deaed34712f",
+        "sha256": "0i2kdmd82r9yq2gr49i0kff04virygy6lpr6ih51sci16c4qki69",
         "type": "tarball",
-        "url": "https://github.com/flatwhatson/emacs/archive/ad5e24593a7ea6d1b2201530fc99219fb701c017.tar.gz",
+        "url": "https://github.com/flatwhatson/emacs/archive/69aafa2e5c8a435b2f4a2357492d4deaed34712f.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "gitignore.nix": {
@@ -53,10 +53,10 @@
         "homepage": null,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "98e46cec92fb877abaee7ed8f78cee722fd58a7e",
-        "sha256": "19khdgb8dp28rx4wyb2m2dxdcq83dhidj6046rynb91dfdm6893n",
+        "rev": "f41c0fc7d8e49d94220f74495d4d702922df2a67",
+        "sha256": "01wim7ayn69y056q28ifw2f0mdypidpc0z15dda54aj5yy5vai09",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/98e46cec92fb877abaee7ed8f78cee722fd58a7e.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/f41c0fc7d8e49d94220f74495d4d702922df2a67.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "pre-commit-hooks.nix": {
