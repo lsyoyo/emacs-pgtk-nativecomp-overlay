@@ -1,3 +1,7 @@
+# Notice:
+
+I am deprecating this overlay. As of [this commit](https://github.com/nix-community/emacs-overlay/commit/4629eb4142029522703cd8ee3247397ae038d047) emacsPgtk + native-comp is now part of the [nix-community emacs-overlay](https://github.com/nix-community/emacs-overlay). Thank you for your comments and support!
+
 # To get nix and set up the binary cache
 
 Follow the instructions [here](https://app.cachix.org/cache/mjlbach) to set up nix and add my cachix cache which provides precompiled binaries, built against the nixos-unstable channel each night.
