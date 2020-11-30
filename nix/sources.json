@@ -5,10 +5,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "emacs-mirror",
         "repo": "emacs",
-        "rev": "949b49cf771e8f38b23adb3fa4f9d7a9a5e290da",
-        "sha256": "19gsm0dci36b47j4l4icgq4841dr0a3a757daw6b0w4jmpxax9q4",
+        "rev": "6523b8401519a29ca0aefaf44c3dfa36f681f64e",
+        "sha256": "0g4adawzrm02ddvs94gwmaz8qpgxlvgrg8i0qkh74h5qi1kxynb9",
         "type": "tarball",
-        "url": "https://github.com/emacs-mirror/emacs/archive/949b49cf771e8f38b23adb3fa4f9d7a9a5e290da.tar.gz",
+        "url": "https://github.com/emacs-mirror/emacs/archive/6523b8401519a29ca0aefaf44c3dfa36f681f64e.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "emacs-pgtk-nativecomp": {
@@ -17,10 +17,10 @@
         "homepage": "http://www.gnu.org/software/emacs/",
         "owner": "flatwhatson",
         "repo": "emacs",
-        "rev": "87f6d4f8d747c7334242dbf815adfeb320b4022d",
-        "sha256": "1q7qafm4ki8s50pwlz4shk6gazvcyzxhg7xyn2vnnyjwwi4jsjda",
+        "rev": "29657ce3a69f1c49a0ce3f13b7528c8c6f7286d9",
+        "sha256": "1fym1aqh35ax91ymjpd63yi7s6054p5m8mli1cicwx6jymskr02g",
         "type": "tarball",
-        "url": "https://github.com/flatwhatson/emacs/archive/87f6d4f8d747c7334242dbf815adfeb320b4022d.tar.gz",
+        "url": "https://github.com/flatwhatson/emacs/archive/29657ce3a69f1c49a0ce3f13b7528c8c6f7286d9.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "gitignore.nix": {
@@ -41,10 +41,10 @@
         "homepage": null,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "2247d824fe07f16325596acc7faa286502faffd1",
-        "sha256": "09jzdnsq7f276cfkmynqiaqg145k8z908rlr0170ld1sms1a83rw",
+        "rev": "8ee7c2505f9e7019aa69c8a6313e5f2d32a69f27",
+        "sha256": "048b00wz86pxifzm708nwl0g3nchb1yi6lwlsw4yg8jnlrqv48xh",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/2247d824fe07f16325596acc7faa286502faffd1.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/8ee7c2505f9e7019aa69c8a6313e5f2d32a69f27.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nixpkgs": {
@@ -53,10 +53,10 @@
         "homepage": null,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "19db3e5ea2777daa874563b5986288151f502e27",
-        "sha256": "1hi4afwwc7l658fxlahbrd8zxkwcjfg313ncxmls6cl8w7fpwnal",
+        "rev": "3c72bb875e67ad1bce805fe26a8a5d3a0e8078ed",
+        "sha256": "111mrviz6ar72pjsrb2v26xsjy5wza4q0wprj4bd6yk9lcdrw41n",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/19db3e5ea2777daa874563b5986288151f502e27.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/3c72bb875e67ad1bce805fe26a8a5d3a0e8078ed.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "pre-commit-hooks.nix": {
