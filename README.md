@@ -1,6 +1,6 @@
 # Notice:
 
-As of [this commit](https://github.com/nix-community/emacs-overlay/commit/4629eb4142029522703cd8ee3247397ae038d047) emacsPgtk + native-comp is now part of the [nix-community emacs-overlay](https://github.com/nix-community/emacs-overlay). I will maintain this overlay for the sole purpose of providing builds for nativecomp for mac until such builds are available from the nix-community hydra.
+As of [this commit](https://github.com/nix-community/emacs-overlay/commit/4629eb4142029522703cd8ee3247397ae038d047) emacsPgtk + native-comp is now part of the [nix-community emacs-overlay](https://github.com/nix-community/emacs-overlay). I am maintaining a fork of the emacs-overlay which provides builds for macOS (and linux) here https://github.com/mjlbach/emacs-overlay. 
 
 # To get nix and set up the binary cache
 
