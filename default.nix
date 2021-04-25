@@ -50,8 +50,8 @@ let
               (
                 pkgs.fetchpatch {
                   name = "tramp-detect-wrapped-gvfsd.patch";
-                  url = "https://raw.githubusercontent.com/nix-community/emacs-overlay/master/patches/tramp-detect-wrapped-gvfsd.patch";
-                  sha256 = "19nywajnkxjabxnwyp8rgkialyhdpdpy26mxx6ryfl9ddx890rnc";
+                  url = "https://raw.githubusercontent.com/nix-community/emacs-overlay/fab25e7e94d1ea5ef94330a88afefe9318255763/patches/tramp-detect-wrapped-gvfsd.patch";
+                  sha256 = "1rvz725697md3ir618kkrccsxzd6n0p8yddq7rsh5jg8dbrvjvcx";
                 }
               )
             ];
