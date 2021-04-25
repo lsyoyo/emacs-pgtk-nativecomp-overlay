@@ -43,7 +43,7 @@ let
               (
                 pkgs.fetchpatch {
                   name = "clean-env.patch";
-                  url = "https://raw.githubusercontent.com/nix-community/emacs-overlay/master/patches/clean-env.patch";
+                  url = "https://raw.githubusercontent.com/nix-community/emacs-overlay/48878090f66c1973d49880aa492bb89dd701951e/patches/clean-env.patch";
                   sha256 = "0lx9062iinxccrqmmfvpb85r2kwfpzvpjq8wy8875hvpm15gp1s5";
                 }
               )
